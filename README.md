@@ -8,23 +8,23 @@
 
 - 打开任意游戏，进入激烈战斗场景，然后按Alt+Tab切出；
 
-  <div align=left><img width=400 src="image\\植物大战僵尸.jpg">
+  <div align=left><img width=400 src="卷王辅助工具\\image\\植物大战僵尸.jpg">
 
 - 把游戏名称插入到py文件中指定位置；
 
-  <div align=left><img width=400 src="image\\应用名.jpg">
+  <div align=left><img width=400 src="卷王辅助工具\\image\\应用名.jpg">
 
 
-  <div align=left><img width=700 src="image\\植物大战僵尸中文版.jpg">
+  <div align=left><img width=700 src="卷王辅助工具\\image\\植物大战僵尸中文版.jpg">
 
 
 - 双击运行run.bat（前提是安装好了python环境和opencv环境）；
 
-  <div align=left><img width=500 src="image\\运行.jpg">
+  <div align=left><img width=500 src="卷王辅助工具\\image\\运行.jpg">
 
 - 出现这个界面后就可以尽情享受~~卷王~~学习的乐趣了！
 
-  <div align=left><img width=500 src="image\\主界面.jpg">
+  <div align=left><img width=500 src="卷王辅助工具\\image\\主界面.jpg">
 
 
 
