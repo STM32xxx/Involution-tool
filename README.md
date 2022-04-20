@@ -4,7 +4,7 @@
 
 - 将摄像头固定在**反卷调查组**的必经之路上，保证可以看到他们的脸，广角摄像头效果更佳；
 
-  <div align=left><img width=400 src="image\\摄像头固定位置.jpg">
+  <div align=left><img width=400 src="卷王辅助工具\\image\\摄像头固定位置.jpg">
 
 - 打开任意游戏，进入激烈战斗场景，然后按Alt+Tab切出；
 
