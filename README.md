@@ -1,5 +1,7 @@
 ### 卷王辅助工具V1.0
 
+视频地址：https://www.bilibili.com/video/BV1VT4y1a761?share_source=copy_web
+
 使用方法：
 
 - 将摄像头固定在**反卷调查组**的必经之路上，保证可以看到他们的脸；
